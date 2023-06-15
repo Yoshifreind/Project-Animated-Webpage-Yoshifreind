@@ -1,0 +1,14 @@
+#introText {  /*Accessing the introText id from the HTML file and editing the styling of the text in it*/ 
+  font-family: Garamond;
+  font-weight: bold;
+  color: purple; 
+}
+#shapeColour { /*Accessing the shapeColour id from the HTML file and editing the styling of the text in it*/ 
+  font-weight: bold;
+  color: red;
+}
+
+#circleText { /*Accessing the circleText id from the HTML file and editing the styling of the text in it*/ 
+  font-family: Garamond;
+  color: blue;
+}
